@@ -5,7 +5,6 @@ import MeetingSetup from '@/components/MeetingSetup';
 import { useGetCallById } from '@/hooks/useGetCallById';
 import { useUser } from '@clerk/nextjs'
 import { StreamCall, StreamTheme } from '@stream-io/video-react-sdk';
-import { Loader } from 'lucide-react';
 import Loader from './loader';
 import React, { useState } from 'react'
 
