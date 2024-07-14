@@ -9,7 +9,7 @@ import 'react-datepicker/dist/react-datepicker.css'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "VcMeet",   // Change App name
+  title: "QuickCall",   // Change App name
   description: "Video Calling App",
   icons: {
     icon: '/icons/logo.svg'  //Chnage Favicon
