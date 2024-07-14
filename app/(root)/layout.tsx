@@ -3,7 +3,7 @@ import { Metadata } from 'next';
 import React, { ReactNode } from 'react'
 
 export const metadata: Metadata = {
-  title: "VcMeet",   // Change App name
+  title: "QuickCall",   // Change App name
   description: "Video Calling App",
   icons: {
     icon: '/icons/logo.svg'  //Chnage Favicon
